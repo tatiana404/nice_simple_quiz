@@ -3,7 +3,7 @@
 
 ## Description
 
-For this challenge Challenge I built a timed coding quiz application with multiple-choice questions. It will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface. 
+For this challenge Challenge I built a timed coding quiz application with multiple-choice questions. It will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean, polished, and responsive user interface. 
 
 
 ## Installation
